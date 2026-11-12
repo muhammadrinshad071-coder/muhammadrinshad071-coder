@@ -50,12 +50,12 @@ I'm a passionate full-stack developer who loves building scalable backend system
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=muhammadrinshad071-code&show_icons=true&theme=default&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=default&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=muhammadrinshad071-coder&show_icons=true&theme=default&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadrinshad071-coder&layout=compact&theme=default&hide_border=true" />
 
 </div>
 
