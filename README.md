@@ -54,7 +54,7 @@ I'm a passionate full-stack developer who loves building scalable backend system
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=muhammadrinshad071-code&show_icons=true&theme=default&hide_border=true&count_private=true" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=default&hide_border=true" />
 
 </div>
@@ -62,7 +62,5 @@ I'm a passionate full-stack developer who loves building scalable backend system
 ---
 
 ### 📫 Get in Touch
-
-- 🌐 Portfolio: [rinshadportfolio.netlify.app](https://rinshadportfolio.netlify.app/)
-- 📧 Email: [muhammedrinshad071@gmail.com](mailto:muhammedrinshad071@gmail.com)
+-  Email: [muhammedrinshad071@gmail.com](mailto:muhammedrinshad071@gmail.com)
 
